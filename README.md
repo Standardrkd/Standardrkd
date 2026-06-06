@@ -130,7 +130,7 @@ class standardrkd:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-standardrkd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/standardrkd)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](pgj5927@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgj5927@gmail.com)
 
 </div>
 
