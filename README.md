@@ -1,15 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:EC9A00,100:D68910&height=220&section=header&text=standardrkd&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨+Welcome+to+my+GitHub!+✨&descAlignY=58&descSize=22" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD630,100:FFC130&height=220&section=header&text=standardrkd&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨+Welcome+to+my+GitHub!+✨&descAlignY=58&descSize=22" width="100%"/>
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"></a>
 
-<br/><br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 </div>
 
@@ -19,7 +16,7 @@
 
 ```python
 class standardrkd:
-    role        = "CNU CSE Student"
+    role        = "CNU_CSE Student"
     focus       = ["Python", "Algorithm", "Problem Solving"]
     studying    = ["JavaScript", "TypeScript", "Web Development"]
     currently   = "📚 Studying hard and solving algorithm problems"
@@ -27,7 +24,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -48,7 +45,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -56,7 +53,7 @@ class standardrkd:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=standardrkd&theme=tokyonight&hide_border=true&background=0D1117&ring=EC9A00&fire=FFD700&currStreakLabel=FFD700&border_radius=12" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=standardrkd&theme=tokyonight&hide_border=true&background=0D1117&ring=FFC130&fire=FFD630&currStreakLabel=FFD630&border_radius=12" width="70%"/>
 
 <br/><br/>
 
@@ -65,7 +62,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -80,7 +77,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -103,7 +100,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -111,13 +108,13 @@ class standardrkd:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=standardrkd&bg_color=0D1117&color=EC9A00&line=FFD700&point=ffffff&hide_border=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=standardrkd&bg_color=0D1117&color=FFC130&line=FFD630&point=ffffff&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD630,100:FFC130&height=3" width="100%"/>
 
 ---
 
@@ -136,10 +133,10 @@ class standardrkd:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=standardrkd&color=EC9A00&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=standardrkd&color=FFC130&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D68910,50:EC9A00,100:FFD700&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC130,100:FFD630&height=140&section=footer" width="100%"/>
 
 </div>
