@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6EC7&height=220&section=header&text=standardrkd&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨+Welcome+to+my+GitHub!+✨&descAlignY=58&descSize=22" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=FF6EC7&center=true&vCenter=true&random=false&width=650&lines=Hello+World!+I'm+standardrkd+👋;Python+Developer+🐍;Algorithm+%26+Problem+Solving+🧩;Solved.ac+Gold+3+%F0%9F%8F%85;Always+Learning%2C+Always+Growing+🚀;Let's+Build+Something+Together!+🤝" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"></a>
 
 <br/><br/>
 
