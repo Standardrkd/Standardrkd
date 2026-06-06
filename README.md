@@ -58,12 +58,13 @@ class standardrkd:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=standardrkd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=7F00FF&text_color=ffffff&count_private=true&border_radius=12" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=standardrkd&theme=tokyonight" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=standardrkd&theme=tokyonight&hide_border=true&background=0D1117&ring=E100FF&fire=FF6EC7&currStreakLabel=FF6EC7&border_radius=12" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=standardrkd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff&langs_count=8&border_radius=12" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=standardrkd&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=standardrkd&theme=tokyonight&utcOffset=9" width="49%"/>
 
 </div>
 
