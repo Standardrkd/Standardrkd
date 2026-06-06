@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6EC7&height=220&section=header&text=standardrkd&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨+Welcome+to+my+GitHub!+✨&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:EC9A00,100:D68910&height=220&section=header&text=standardrkd&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨+Welcome+to+my+GitHub!+✨&descAlignY=58&descSize=22" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"></a>
@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 </div>
 
@@ -27,7 +27,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -48,7 +48,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -56,19 +56,16 @@ class standardrkd:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=standardrkd&theme=tokyonight" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=standardrkd&theme=tokyonight&hide_border=true&background=0D1117&ring=E100FF&fire=FF6EC7&currStreakLabel=FF6EC7&border_radius=12" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=standardrkd&theme=tokyonight&hide_border=true&background=0D1117&ring=EC9A00&fire=FFD700&currStreakLabel=FFD700&border_radius=12" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=standardrkd&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=standardrkd&theme=tokyonight&utcOffset=9" width="49%"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -78,13 +75,12 @@ class standardrkd:
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=standardrkd)](https://solved.ac/standardrkd)
 
-<img src="https://mazandi.herokuapp.com/api?handle=standardrkd&theme=warm" alt="mazandi graph"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -107,7 +103,7 @@ class standardrkd:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -115,13 +111,13 @@ class standardrkd:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=standardrkd&bg_color=0D1117&color=E100FF&line=FF6EC7&point=ffffff&hide_border=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=standardrkd&bg_color=0D1117&color=EC9A00&line=FFD700&point=ffffff&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:EC9A00,100:D68910&height=3" width="100%"/>
 
 ---
 
@@ -140,10 +136,10 @@ class standardrkd:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=standardrkd&color=E100FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=standardrkd&color=EC9A00&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:E100FF,100:7F00FF&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D68910,50:EC9A00,100:FFD700&height=140&section=footer" width="100%"/>
 
 </div>
