@@ -16,7 +16,7 @@
 
 ```python
 class standardrkd:
-    role        = "CNU_CSE Student"
+    role        = "CNU_CSE_Student"
     focus       = ["Python", "Algorithm", "Problem Solving"]
     studying    = ["JavaScript", "TypeScript", "Web Development"]
     currently   = "📚 Studying hard and solving algorithm problems"
